@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feifan&#39;s Blog</title>
+  
+  <subtitle>Your past will make sense in the end.</subtitle>
+  <link href="https://feifankoo.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://feifankoo.github.io/"/>
+  <updated>2020-12-20T15:17:33.357Z</updated>
+  <id>https://feifankoo.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1220</title>
+    <link href="https://feifankoo.github.io/uncategorized/1220.html"/>
+    <id>https://feifankoo.github.io/uncategorized/1220.html</id>
+    <published>2020-12-20T15:12:21.000Z</published>
+    <updated>2020-12-20T15:17:33.357Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="时隔一年半，我又回来了"><a href="#时隔一年半，我又回来了" class="headerlink" title="时隔一年半，我又回来了"></a>时隔一年半，我又回来了</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;时隔一年半，我又回来了&quot;&gt;&lt;a href=&quot;#时隔一年半，我又回来了&quot; class=&quot;headerlink&quot; title=&quot;时隔一年半，我又回来了&quot;&gt;&lt;/a&gt;时隔一年半，我又回来了&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="performance marketing" scheme="https://feifankoo.github.io/tags/performance-marketing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://feifankoo.github.io/uncategorized/hello-world.html"/>
+    <id>https://feifankoo.github.io/uncategorized/hello-world.html</id>
+    <published>2019-06-14T15:59:40.000Z</published>
+    <updated>2019-06-14T15:59:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Every step counts</title>
+    <link href="https://feifankoo.github.io/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/Every-step-counts.html"/>
+    <id>https://feifankoo.github.io/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/Every-step-counts.html</id>
+    <published>2019-06-13T11:45:45.000Z</published>
+    <updated>2019-06-13T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center">Brainy is the new sexy.</blockquote><h3 id="2019-6"><a href="#2019-6" class="headerlink" title="2019.6"></a>2019.6</h3><ul><li><input checked disabled type="checkbox"> Linux虚拟机中安装Hive</li></ul><hr><p><i class="fa fa-pencil"></i></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;Brainy is the new sexy.&lt;/blockquote&gt;
+
+
+
+&lt;h3 id=&quot;2019-6&quot;&gt;&lt;a href=&quot;#2019-6&quot; class=&quot;headerlink&quot; title=&quot;20</summary>
+      
+    
+    
+    
+    <category term="学习资源" scheme="https://feifankoo.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/"/>
+    
+    
+    <category term="记录" scheme="https://feifankoo.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+</feed>
