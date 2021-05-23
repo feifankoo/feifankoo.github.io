@@ -9,6 +9,11 @@
   <updated>2021-05-21T08:57:01.399Z</updated>
   <id>https://feifankoo.github.io/</id>
   
+  <author>
+    <name>Feifan</name>
+    
+  </author>
+  
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
@@ -40,10 +45,10 @@
   
   <entry>
     <title>python笔记本</title>
-    <link href="https://feifankoo.github.io/uncategorized/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html"/>
-    <id>https://feifankoo.github.io/uncategorized/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html</id>
+    <link href="https://feifankoo.github.io/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html"/>
+    <id>https://feifankoo.github.io/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html</id>
     <published>2021-05-21T08:11:06.000Z</published>
-    <updated>2021-05-21T08:23:02.053Z</updated>
+    <updated>2021-05-23T13:11:43.311Z</updated>
     
     <content type="html"><![CDATA[<p>本篇整理了部分常用的pandas语句以及简单的数据处理。<br>其中包括了：</p><ul><li>导入文件</li><li>查看dataframe基础信息</li><li>行列的增删查改和筛选</li><li>表连接</li><li>变量处理</li><li>数据分组groupby</li><li>其他</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> warnings</span><br><span class="line">warnings.filterwarnings(<span class="string">&#x27;ignore&#x27;</span>)</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -61,6 +66,8 @@
       
     
     
+    
+    <category term="学习笔记" scheme="https://feifankoo.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
     <category term="python" scheme="https://feifankoo.github.io/tags/python/"/>

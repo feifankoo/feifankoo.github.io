@@ -39,7 +39,7 @@
   </entry>
   <entry>
     <title>python笔记本</title>
-    <url>/uncategorized/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html</url>
+    <url>/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html</url>
     <content><![CDATA[<p>本篇整理了部分常用的pandas语句以及简单的数据处理。<br>其中包括了：</p>
 <ul>
 <li>导入文件</li>
@@ -53,6 +53,9 @@
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> warnings</span><br><span class="line">warnings.filterwarnings(<span class="string">&#x27;ignore&#x27;</span>)</span><br></pre></td></tr></table></figure>
 
 ]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
       <tags>
         <tag>python</tag>
       </tags>
