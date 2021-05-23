@@ -1,15 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Feifan&#39;s Blog</title>
+  <title>It&#39;s Feifan</title>
   
   <subtitle>Your past will make sense in the end.</subtitle>
   <link href="https://feifankoo.github.io/atom.xml" rel="self"/>
   
   <link href="https://feifankoo.github.io/"/>
-  <updated>2020-12-26T15:02:11.667Z</updated>
+  <updated>2021-05-21T08:57:01.399Z</updated>
   <id>https://feifankoo.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AB test实践笔记</title>
+    <link href="https://feifankoo.github.io/uncategorized/AB%20test%E5%AE%9E%E8%B7%B5%E7%AC%94%E8%AE%B0.html"/>
+    <id>https://feifankoo.github.io/uncategorized/AB%20test%E5%AE%9E%E8%B7%B5%E7%AC%94%E8%AE%B0.html</id>
+    <published>2021-05-21T08:11:06.000Z</published>
+    <updated>2021-05-21T08:57:01.399Z</updated>
+    
+    <content type="html"><![CDATA[<p>想要优化推荐版块，</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;想要优化推荐版块，&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="工作记录" scheme="https://feifankoo.github.io/tags/%E5%B7%A5%E4%BD%9C%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="统计" scheme="https://feifankoo.github.io/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+    <category term="python" scheme="https://feifankoo.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python笔记本</title>
+    <link href="https://feifankoo.github.io/uncategorized/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html"/>
+    <id>https://feifankoo.github.io/uncategorized/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html</id>
+    <published>2021-05-21T08:11:06.000Z</published>
+    <updated>2021-05-21T08:23:02.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>本篇整理了部分常用的pandas语句以及简单的数据处理。<br>其中包括了：</p><ul><li>导入文件</li><li>查看dataframe基础信息</li><li>行列的增删查改和筛选</li><li>表连接</li><li>变量处理</li><li>数据分组groupby</li><li>其他</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> warnings</span><br><span class="line">warnings.filterwarnings(<span class="string">&#x27;ignore&#x27;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本篇整理了部分常用的pandas语句以及简单的数据处理。&lt;br&gt;其中包括了：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;导入文件&lt;/li&gt;
+&lt;li&gt;查看dataframe基础信息&lt;/li&gt;
+&lt;li&gt;行列的增删查改和筛选&lt;/li&gt;
+&lt;li&gt;表连接&lt;/li&gt;
+&lt;li&gt;变量处理&lt;/li&gt;
+&lt;li</summary>
+      
+    
+    
+    
+    
+    <category term="python" scheme="https://feifankoo.github.io/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>SQL学习资源推荐</title>
@@ -44,14 +100,14 @@
     <link href="https://feifankoo.github.io/uncategorized/1220.html"/>
     <id>https://feifankoo.github.io/uncategorized/1220.html</id>
     <published>2020-12-20T15:12:21.000Z</published>
-    <updated>2020-12-20T15:17:33.357Z</updated>
+    <updated>2020-12-30T03:21:46.557Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="时隔一年半，我又回来了"><a href="#时隔一年半，我又回来了" class="headerlink" title="时隔一年半，我又回来了"></a>时隔一年半，我又回来了</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="时隔一年半，我又回来了"><a href="#时隔一年半，我又回来了" class="headerlink" title="时隔一年半，我又回来了"></a>时隔一年半，我又回来了</h2><p>Ctrl + Shift + P 调出主命令框，输入 Markdown</p><blockquote><p>hello world!</p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;时隔一年半，我又回来了&quot;&gt;&lt;a href=&quot;#时隔一年半，我又回来了&quot; class=&quot;headerlink&quot; title=&quot;时隔一年半，我又回来了&quot;&gt;&lt;/a&gt;时隔一年半，我又回来了&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;时隔一年半，我又回来了&quot;&gt;&lt;a href=&quot;#时隔一年半，我又回来了&quot; class=&quot;headerlink&quot; title=&quot;时隔一年半，我又回来了&quot;&gt;&lt;/a&gt;时隔一年半，我又回来了&lt;/h2&gt;&lt;p&gt;Ctrl + Shift + P 调出主命令框，输入 Markdow</summary>
       
     
     

@@ -3,9 +3,24 @@
   <entry>
     <title>1220</title>
     <url>/uncategorized/1220.html</url>
-    <content><![CDATA[<h2 id="时隔一年半，我又回来了"><a href="#时隔一年半，我又回来了" class="headerlink" title="时隔一年半，我又回来了"></a>时隔一年半，我又回来了</h2>]]></content>
+    <content><![CDATA[<h2 id="时隔一年半，我又回来了"><a href="#时隔一年半，我又回来了" class="headerlink" title="时隔一年半，我又回来了"></a>时隔一年半，我又回来了</h2><p>Ctrl + Shift + P 调出主命令框，输入 Markdown</p>
+<blockquote>
+<p>hello world!</p>
+</blockquote>
+]]></content>
       <tags>
         <tag>performance marketing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>AB test实践笔记</title>
+    <url>/uncategorized/AB%20test%E5%AE%9E%E8%B7%B5%E7%AC%94%E8%AE%B0.html</url>
+    <content><![CDATA[<p>想要优化推荐版块，</p>
+]]></content>
+      <tags>
+        <tag>工作记录</tag>
+        <tag>统计</tag>
+        <tag>python</tag>
       </tags>
   </entry>
   <entry>
@@ -21,6 +36,26 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>python笔记本</title>
+    <url>/uncategorized/python%E7%AC%94%E8%AE%B0%E6%9C%AC.html</url>
+    <content><![CDATA[<p>本篇整理了部分常用的pandas语句以及简单的数据处理。<br>其中包括了：</p>
+<ul>
+<li>导入文件</li>
+<li>查看dataframe基础信息</li>
+<li>行列的增删查改和筛选</li>
+<li>表连接</li>
+<li>变量处理</li>
+<li>数据分组groupby</li>
+<li>其他</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> warnings</span><br><span class="line">warnings.filterwarnings(<span class="string">&#x27;ignore&#x27;</span>)</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
   </entry>
   <entry>
     <title>SQL学习资源推荐</title>
