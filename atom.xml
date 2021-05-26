@@ -6,7 +6,7 @@
   <link href="https://feifankoo.github.io/atom.xml" rel="self"/>
   
   <link href="https://feifankoo.github.io/"/>
-  <updated>2021-05-21T08:57:01.399Z</updated>
+  <updated>2021-05-26T09:25:50.081Z</updated>
   <id>https://feifankoo.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>正则表达式 cheat sheet</title>
+    <link href="https://feifankoo.github.io/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8Fcheat%20sheet.html"/>
+    <id>https://feifankoo.github.io/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8Fcheat%20sheet.html</id>
+    <published>2021-05-25T16:00:00.000Z</published>
+    <updated>2021-05-26T09:25:50.081Z</updated>
+    
+    <content type="html"><![CDATA[<p>工作中，经常会遇到从已有的字段中提取出一些特定信息的情况，比如从’sku:color-red;size-xs’这一串字符中提取出尺码xs。本篇用于记录和总结常用的正则表达式。</p><p>先给出几个很好用的网站，可以学习、创建、测试正则表达式。</p><blockquote><p><a href="https://regexr.com/">RegExr（英文版）</a></p></blockquote><blockquote><p><a href="https://regexr-cn.com/">RegExr（中文版）</a></p></blockquote><blockquote><p><a href="https://regex101.com/">Regex101</a></p></blockquote><h1 id="1-基本语法结构"><a href="#1-基本语法结构" class="headerlink" title="1.基本语法结构"></a>1.基本语法结构</h1><table><thead><tr><th>语法</th><th align="center">解释说明</th></tr></thead><tbody><tr><td>^</td><td align="center">匹配字符串的开头</td></tr><tr><td>$</td><td align="center">匹配字符串的结尾</td></tr><tr><td>\d</td><td align="center">匹配一个数字</td></tr><tr><td>+</td><td align="center">匹配前一个字符至少一次</td></tr><tr><td>?</td><td align="center">匹配前一个字符0次或1次</td></tr><tr><td>[0-9a-zA-Z\_]</td><td align="center">匹配一个数字，字母或下划线</td></tr><tr><td>[^xy]</td><td align="center">匹配除了x和y以外的任意字符</td></tr></tbody></table><h1 id="2-bigquery中的正则表达式应用"><a href="#2-bigquery中的正则表达式应用" class="headerlink" title="2.bigquery中的正则表达式应用"></a>2.bigquery中的正则表达式应用</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;工作中，经常会遇到从已有的字段中提取出一些特定信息的情况，比如从’sku:color-red;size-xs’这一串字符中提取出尺码xs。本篇用于记录和总结常用的正则表达式。&lt;/p&gt;
+&lt;p&gt;先给出几个很好用的网站，可以学习、创建、测试正则表达式。&lt;/p&gt;
+&lt;blockquo</summary>
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://feifankoo.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="正则表达式" scheme="https://feifankoo.github.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>AB test实践笔记</title>
@@ -98,48 +124,6 @@
     <category term="学习资源" scheme="https://feifankoo.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/"/>
     
     <category term="SQL" scheme="https://feifankoo.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/SQL/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>1220</title>
-    <link href="https://feifankoo.github.io/uncategorized/1220.html"/>
-    <id>https://feifankoo.github.io/uncategorized/1220.html</id>
-    <published>2020-12-20T15:12:21.000Z</published>
-    <updated>2020-12-30T03:21:46.557Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="时隔一年半，我又回来了"><a href="#时隔一年半，我又回来了" class="headerlink" title="时隔一年半，我又回来了"></a>时隔一年半，我又回来了</h2><p>Ctrl + Shift + P 调出主命令框，输入 Markdown</p><blockquote><p>hello world!</p></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;时隔一年半，我又回来了&quot;&gt;&lt;a href=&quot;#时隔一年半，我又回来了&quot; class=&quot;headerlink&quot; title=&quot;时隔一年半，我又回来了&quot;&gt;&lt;/a&gt;时隔一年半，我又回来了&lt;/h2&gt;&lt;p&gt;Ctrl + Shift + P 调出主命令框，输入 Markdow</summary>
-      
-    
-    
-    
-    
-    <category term="performance marketing" scheme="https://feifankoo.github.io/tags/performance-marketing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://feifankoo.github.io/uncategorized/hello-world.html"/>
-    <id>https://feifankoo.github.io/uncategorized/hello-world.html</id>
-    <published>2019-06-14T15:59:40.000Z</published>
-    <updated>2019-06-14T15:59:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
     
     
   </entry>
